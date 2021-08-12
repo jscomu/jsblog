@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `프로그래밍 기술 블로그`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `제임스`,
+      summary: `프로그래밍 기술 블로그입니다. 자바스크립트를 공부하고 웹서비스를 위한 정보를 공유합니다.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -118,7 +118,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/myicon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
